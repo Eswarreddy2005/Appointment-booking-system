@@ -1,5 +1,4 @@
 # Appointment-booking-system
-# Appointment Booking System (Mini Project)
 
 Files:
 - index.html
